@@ -1,0 +1,28 @@
+C:\Users\letsa\OneDrive\Desktop\myGame\bin\Debug\net8.0\myGame.exe
+C:\Users\letsa\OneDrive\Desktop\myGame\bin\Debug\net8.0\myGame.deps.json
+C:\Users\letsa\OneDrive\Desktop\myGame\bin\Debug\net8.0\myGame.runtimeconfig.json
+C:\Users\letsa\OneDrive\Desktop\myGame\bin\Debug\net8.0\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\myGame\bin\Debug\net8.0\myGame.pdb
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.AssemblyInfoInputs.cache
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.AssemblyInfo.cs
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.csproj.CoreCompileInputs.cache
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\refint\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.pdb
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\myGame.genruntimeconfig.cache
+C:\Users\letsa\OneDrive\Desktop\myGame\obj\Debug\net8.0\ref\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.AssemblyInfoInputs.cache
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.AssemblyInfo.cs
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.csproj.CoreCompileInputs.cache
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\refint\myGame.dll
+C:\Users\letsa\OneDrive\Desktop\RPG Game\obj\Debug\net8.0\myGame.pdb
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.AssemblyInfoInputs.cache
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.AssemblyInfo.cs
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.csproj.CoreCompileInputs.cache
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.dll
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\refint\myGame.dll
+c:\Users\letsa\OneDrive\Desktop\RPGGame\obj\Debug\net8.0\myGame.pdb
